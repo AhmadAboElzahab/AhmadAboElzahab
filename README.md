@@ -1,4 +1,4 @@
-
+<img src="https://github.com/AhmadAbuAlzahab/AhmadAbuAlzahab/blob/main/banner.gif?raw=true"/>
 <h1>Hey , I'm <strong>Ahmad Abu Alzahab</strong></h1>
 <p>
 
@@ -32,6 +32,12 @@ That's why I like to make things that make a difference</i>
 
 <h2>🚀 Some Tools I Use</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadAbuAlzahab&show_icons=true&theme=synthwave)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=emmaglorypraise&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmaglorypraise&langs_count=8&layout=compact&theme=radical" />
+</a>
+
 
 
