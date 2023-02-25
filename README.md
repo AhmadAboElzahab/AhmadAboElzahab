@@ -1,4 +1,4 @@
-<img src="https://github.com/AhmadAbuAlzahab/AhmadAbuAlzahab/blob/main/ProfileBanner.gif?raw=true"/>
+<img src="https://github.com/AhmadAbuAlzahab/AhmadAbuAlzahab/blob/main/ProfileTopBanner.gif?raw=true"/>
 <h1>Hey , I'm <strong>Ahmad Abu Alzahab</strong></h1>
 <p>
 
