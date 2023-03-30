@@ -33,10 +33,10 @@ That's why I like to make things that make a difference</i>
 <h2>🚀 Some Tools I Use</h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=emmaglorypraise&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmadAbuAlzahab&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmaglorypraise&langs_count=8&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAbuAlzahab&langs_count=8&layout=compact&theme=radical" />
 </a>
 
 
