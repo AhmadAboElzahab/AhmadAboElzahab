@@ -1,0 +1,39 @@
+{
+    "git.postCommitCommand": "push",
+    "editor.fontFamily": "JetBrains Mono, Consolas, 'Courier New', monospace",
+    "editor.fontSize": 16,
+    "editor.lineHeight": 1.6,
+    "workbench.colorTheme": "Pitch Black",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.formatOnSave": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "files.autoSave": "afterDelay",
+    "git.openRepositoryInParentFolders": "never",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.colorDecorators": false,
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "explorer.confirmDelete": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "reactSnippets.settings.importReactOnTop": false,
+    "emmet.triggerExpansionOnTab": true,
+    "files.associations": {
+      "*html": "html",
+      "*njk": "html",
+      "*css": "tailwindcss"
+    },
+    "emmet.useInlineCompletions": true,
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact",
+      "typescript": "typescriptreact",
+      "vue-html": "html",
+      "vue": "html",
+      "razor": "html",
+      "plaintext": "pug",
+      "django-html": "html"
+    },
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.showExpandedAbbreviation": "always"
+  }
+  
